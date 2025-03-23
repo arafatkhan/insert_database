@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+.env
+.venv/
+
+# Flask-Migrate migrations
+migrations/
+
+# Instance folder (for Flask configuration)
+instance/
+
+# SQLite database files
+*.sqlite3
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
